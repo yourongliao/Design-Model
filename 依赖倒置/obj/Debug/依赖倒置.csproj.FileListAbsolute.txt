@@ -1,0 +1,7 @@
+D:\code\visual studio\martix\依赖倒置\bin\Debug\依赖倒置.exe.config
+D:\code\visual studio\martix\依赖倒置\bin\Debug\依赖倒置.exe
+D:\code\visual studio\martix\依赖倒置\bin\Debug\依赖倒置.pdb
+D:\code\visual studio\martix\依赖倒置\obj\Debug\依赖倒置.csprojAssemblyReference.cache
+D:\code\visual studio\martix\依赖倒置\obj\Debug\依赖倒置.csproj.CoreCompileInputs.cache
+D:\code\visual studio\martix\依赖倒置\obj\Debug\依赖倒置.exe
+D:\code\visual studio\martix\依赖倒置\obj\Debug\依赖倒置.pdb

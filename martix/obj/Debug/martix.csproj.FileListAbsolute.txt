@@ -1,0 +1,10 @@
+D:\code\visual studio\martix\martix\bin\Debug\martix.exe.config
+D:\code\visual studio\martix\martix\bin\Debug\martix.exe
+D:\code\visual studio\martix\martix\bin\Debug\martix.pdb
+D:\code\visual studio\martix\martix\obj\Debug\martix.csprojAssemblyReference.cache
+D:\code\visual studio\martix\martix\obj\Debug\martix.Properties.Resources.resources
+D:\code\visual studio\martix\martix\obj\Debug\martix.csproj.GenerateResource.cache
+D:\code\visual studio\martix\martix\obj\Debug\martix.csproj.CoreCompileInputs.cache
+D:\code\visual studio\martix\martix\obj\Debug\martix.exe
+D:\code\visual studio\martix\martix\obj\Debug\martix.pdb
+D:\code\visual studio\martix\martix\obj\Debug\martix.Form1.resources
